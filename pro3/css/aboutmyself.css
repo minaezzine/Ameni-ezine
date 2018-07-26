@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding:0;
+    background: linear-gradient(pink,yellow);
+    background-size:1400PX;  
+}
+.box{
+    width: 800px; 
+    height:1000PX;
+    padding:4px;
+    text-align:left; 
+      margin-TOP: -15em; 
+      margin-left: 20em;
+      max-resolution: top 5% 
+      color:white; 
+     font-family:'aria',sans-serif;
+     font-size:"3PX;                                                                                                                                                                                                    
+   }
+ img{
+    border-radius: 100%;
+    display:inline-block;
+    margin-left: 2em;
+    margin-top: 2em;
+  }
+  ul li {
+  text-decoration: none;
+  color:#000;
+  padding:50px 70px;
+  border: 1px solid #fff;
+  transition: 0.6s ease;
+} a button  {
+  padding:10px;
+  background-color :white;
+  font-size:20px;
+  border-radius:10px;
+}
