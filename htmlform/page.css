@@ -1,0 +1,95 @@
+
+body{
+    
+    padding:0;
+    background-color:#52b0c3;
+    background-size:1400PX;  
+   
+    font-family: "Segoe UI";
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: arial;
+
+}
+.box{
+background-color: #B0E0E6
+
+
+}
+
+h3{
+  text-decoration-color: #112D51; 
+}
+
+#cadre{
+ 
+     text-align: center;
+     padding:1em;
+     background:#baf8ba;
+     color:rgb(14, 7, 7);
+     display:none;
+     
+   }
+  spam{
+    text-align: center;
+    color:rgb(208, 244, 245);
+  }
+  
+  .formu label{
+    display:block;
+   
+  }
+  
+  .formu p{
+    margin:-5;
+  }
+  .bold{
+    margin-left: 5em;
+    text-align: left;
+  
+    color:   rgb(7, 67, 102);
+  }
+
+  .gra{
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      box-shadow: 0px -1px 20px 0 rgba(72,94,116,0.7);
+      margin-left: 5em;
+      margin-right: 5em;
+      margin-bottom: -3em;
+      text-decoration-color: #112D51;
+  
+  }
+  .formu button, .formu input, .formu textarea{
+    width:80%;
+    margin-right: 3em;
+    padding:1em;
+    border:1px solid #c9e6ff;
+  }
+  .formu button{
+    background:#c9e6ff;
+    border:0;
+    text-transform: uppercase;
+  }
+  .pet{
+    background-color:#E7F9F7;
+      
+   background :rgb(208, 244, 245);
+   color:black;
+   display:'block';
+  }
+
+
+
+
+  
+
+
+
+
+    
+
+                          
